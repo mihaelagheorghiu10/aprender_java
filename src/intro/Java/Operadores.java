@@ -1,7 +1,7 @@
 package intro.Java;
 
 public class Operadores {
-    public static void main(String[] args);
+    //public static void main(String[] args);
 
     //operadores
 

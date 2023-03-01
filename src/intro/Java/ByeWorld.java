@@ -19,8 +19,8 @@ public class ByeWorld {
         long number4= 4L;//8 byte
 
         //punto flotante
-        float decimal1= 4,9f;
-        double decimal2= 9,99d;
+        //float decimal1= 4,9f;
+        //double decimal2= 9,99d;
 
         //caracter
         char caracter1= 'a';
@@ -30,12 +30,12 @@ public class ByeWorld {
         boolean falso= false;
 
         //cadenas de texto
-        String "nombre"= "Mika";
-        String "apellido"= "Gheorghiu";
+        //String "nombre"= "Mika";
+        //String "apellido"= "Gheorghiu";
 
         //tipos envoltorio
-        Integer numero= null;
-        Long numero2= 2L;
+        //Integer numero= null;
+        //Long numero2= 2L;
 
 
 
