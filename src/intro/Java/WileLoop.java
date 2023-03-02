@@ -7,11 +7,14 @@ public class WileLoop {
 
         int count = 0;
         while(count < 10){
-
-            System.out.println("Hola mundo");
             count ++; //condicion
+            if (count == 6)
+                continue;
+
+            System.out.println("Hola mundo" + count);
+            //count ++; //condicion
         }
-        System.out.println("fin");
+        //System.out.println("fin");
 
     }
 }
