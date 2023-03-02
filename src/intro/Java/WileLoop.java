@@ -9,12 +9,14 @@ public class WileLoop {
         while(count < 10){
             count ++; //condicion
             if (count == 6)
-                continue;
+                break; // rompe el flujo de ejecucion dentro de respetivo bucle
+                //continue;
 
             System.out.println("Hola mundo" + count);
             //count ++; //condicion
         }
-        //System.out.println("fin");
+        System.out.println("fin");
 
     }
 }
+     //se pueden utilizar con el bucle for
