@@ -12,7 +12,7 @@ public class FoorLoop {
                 System.out.println(i + "Hola mundo");
         }
         //System.out.println("fin");
-        //}
+        }
     }
 
 
